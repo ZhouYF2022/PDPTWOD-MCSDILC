@@ -1,5 +1,5 @@
 # PDPTWOD-MCSDILC
-This project contains instances and code from Paper 《Knowledge-assist heuristic approaches for crowdsourcing vehicle routing problem with multi-commodity split delivery and incompatible loading constraints》
+This project contains instances and code for Paper 《Knowledge-assist heuristic approaches for crowdsourcing vehicle routing problem with multi-commodity split delivery and incompatible loading constraints》
 
 # Instance
 Benchmark instances for PDPTWOD-MCSDILC problem Each '.mat' instance contains the 'RVVehicle', 'ODVehicle' and 'Pick_Del_data' arrays. 
